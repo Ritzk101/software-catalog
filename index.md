@@ -1,4 +1,4 @@
-markdown
+```markdown
 # Software Catalog
 
 ## Software 1
@@ -10,3 +10,4 @@ markdown
 - Description: Another software
 - Version: 2.1
 - Download: [Link](#)
+```
